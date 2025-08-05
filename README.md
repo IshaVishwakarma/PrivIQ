@@ -1,4 +1,4 @@
-# 🔐 PriviQ - Privacy Policy Analyzer
+# 🔐 PrivIQ - Privacy Policy Analyzer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Streamlit App](https://img.shields.io/badge/Live-Demo-brightgreen)](https://myapp-pndu.onrender.com/)
