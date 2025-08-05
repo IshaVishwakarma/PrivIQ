@@ -97,7 +97,7 @@
 ## 👩‍💻 Author
 
 **Isha Vishwakarma**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ishavishwakarma)
+🔗 [LinkedIn](https://www.linkedin.com/in/isha-vishwakarma/)
 
 ---
 
